@@ -1,2 +1,7 @@
 // Objects and Dictionaries
-const person = { name: "John", age: 30 };
+const person = {
+  name: "John",
+  age: 30,
+};
+
+console.log(person["name"]);

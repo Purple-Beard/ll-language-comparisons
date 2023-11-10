@@ -1,4 +1,4 @@
-const PI = 3.14;
-let myName = 23;
+const PI = 3.142;
+let myName = "Dan";
 
 print(PI, myFaveNumber);
